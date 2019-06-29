@@ -1,6 +1,6 @@
 http://192.168.128.134:8080/pc_trunk/ff15/
 http://192.168.128.134:8080/pc_trunk/ff15/
-34
-http://192.168.128.134:8080/pc_trunk/ff15/FF15Launcher_v0.3.4.exe
+35
+http://192.168.128.134:8080/pc_trunk/ff15/FF15Launcher_v0.3.5.exe
 /////
 http://192.168.129.148:8080/ff15/
